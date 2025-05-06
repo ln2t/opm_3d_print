@@ -2,7 +2,9 @@
 
 [![License: CC BY 4.0](https://licensebuttons.net/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
 
-These files were created as part of the research project "Pushing the boundaries of MEG based on optically pumped magnetometers towards early human life" during my postdoctoral position at Laboratoire de Neuroanatomie et Neuroimagerie translationnelles (LN2T), Université Libre de Bruxelles, Belgium, under the supervision of Xavier De Tiège. They were used in the publication:
+These files were created as part of the research projects "OPM-MEG for Diagnostic Evaluation of Epilepsy in School-aged Children" and "Pushing the boundaries of OPM-MEG towards early human life" during my postdoctoral position at Laboratoire de Neuroanatomie et Neuroimagerie translationnelles (LN2T), Université Libre de Bruxelles, Belgium, under the supervision of Xavier De Tiège. They were used in the following publications:
+
+Feys, O., Corvilain, P., Aeby, A., Sculier, C., Holmes, N., Brookes, M., Goldman, S., Wens, V., & De Tiège, X. (2022). **On-Scalp Optically Pumped Magnetometers versus Cryogenic Magnetoencephalography for Diagnostic Evaluation of Epilepsy in School-aged Children**. Radiology, 304(2), 429–434. DOI: [10.1148/radiol.212453](https://doi.org/10.1148/radiol.212453)
 
 Corvilain, P., Wens, V., Bourguignon, M., Capparini, C., Fourdin, L., Ferez, M., Feys, O., De Tiège, X., & Bertels, J. (2025). **Pushing the boundaries of MEG based on optically pumped magnetometers towards early human life.** Imaging Neuroscience.
 DOI: [10.1162/imag_a_00489](https://doi.org/10.1162/imag_a_00489)
@@ -28,7 +30,7 @@ If you modify or improve these files, we’d appreciate hearing about your work.
 These files are shared under the **Creative Commons Attribution 4.0 International License (CC BY 4.0)**.  
 You are free to share and adapt the materials, even for commercial purposes, provided that:
 - You give appropriate credit to the original creators and institution.
-- You include a reference to our publication.
+- You include references to the related publications.
 - You indicate if changes were made.
 - You provide a link to the license 
 
