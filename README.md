@@ -2,7 +2,7 @@
 
 [![License: CC BY 4.0](https://licensebuttons.net/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
 
-These files were created as part of the research projects "OPM-MEG for Diagnostic Evaluation of Epilepsy in School-aged Children" and "Pushing the boundaries of OPM-MEG towards early human life" during my postdoctoral position at Laboratoire de Neuroanatomie et Neuroimagerie translationnelles (LN2T), Université Libre de Bruxelles, Belgium, under the supervision of Xavier De Tiège. They were used in the following publications:
+These files were created by Pierre Corvilain as part of the research projects "OPM-MEG for Diagnostic Evaluation of Epilepsy in School-aged Children" and "Pushing the boundaries of OPM-MEG towards early human life" during his postdoctoral position at Laboratoire de Neuroanatomie et Neuroimagerie translationnelles (LN2T), Université Libre de Bruxelles, Belgium, under the supervision of Xavier De Tiège. They were used in the following publications:
 
 Feys, O., Corvilain, P., Aeby, A., Sculier, C., Holmes, N., Brookes, M., Goldman, S., Wens, V., & De Tiège, X. (2022). **On-Scalp Optically Pumped Magnetometers versus Cryogenic Magnetoencephalography for Diagnostic Evaluation of Epilepsy in School-aged Children**. Radiology, 304(2), 429–434. DOI: [10.1148/radiol.212453](https://doi.org/10.1148/radiol.212453)
 
