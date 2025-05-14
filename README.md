@@ -1,7 +1,8 @@
 # 3D Printing Files for OPM-MEG
 
-[![License: CC BY 4.0](https://licensebuttons.net/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15420146.svg)](https://doi.org/10.5281/zenodo.15420146)
+[![License: CC BY 4.0](https://licensebuttons.net/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
+
 
 These files were created by Pierre Corvilain as part of the research projects "OPM-MEG for Diagnostic Evaluation of Epilepsy in School-aged Children" and "Pushing the boundaries of OPM-MEG towards early human life" during his postdoctoral position at the Laboratoire de Neuroanatomie et Neuroimagerie translationnelles (LN2T), Université Libre de Bruxelles, Belgium, under the supervision of Xavier De Tiège. They were used in the following publications:
 
@@ -26,7 +27,7 @@ These files are provided to help others adapt and build upon our design for thei
 
 If you modify or improve these files, we’d appreciate hearing about your work.
 
-## Citing this work
+## Citation
 
 A citable version of this repository is archived on Zenodo: [10.5281/zenodo.15420146](https://doi.org/10.5281/zenodo.15420146)
 
