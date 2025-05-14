@@ -46,4 +46,4 @@ More info: [https://creativecommons.org/licenses/by/4.0/](https://creativecommon
 ## Contact
 
 For questions, please contact:  
-Pierre Corvilain – pcorvila@gmail.com
+Pierre Corvilain – pierre [dot] corvilain [at] ulb [dot] be
